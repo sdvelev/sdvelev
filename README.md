@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan Velev.</h1>
 <h3 align="center">A passionate student at Sofia University studying Software Engineering.</h3>
 
-- 🌱 I’m currently learning **Java**
+<!-- - 🌱 I’m currently learning **Java** -->
 
 
 - 📫 How to reach me **sdvelev@gmail.com**
