@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Stefan Velev.</h1>
-<h3 align="center">Student at Sofia University, studying Software Engineering.</h3>
+<h1 align="center">Hi👋, I'm Stefan Velev</h1>
+<h3 align="center">Software Engineering student at FMI, Sofia University</h3>
 
 <!-- - 🌱 I’m currently learning **Java** -->
 
