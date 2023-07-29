@@ -1,5 +1,9 @@
-<h1 align="center">Hi👋, I'm Stefan Velev</h1>
-<h3 align="center">Software Engineering student at FMI, Sofia University</h3>
+<h1 align="center">Hi👋, I'm Stefan</h1>
+
+
+<p>
+Diligent and hard-working 4th Year Student in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University. Eager to learn new technologies and put the knowledge already acquired into practice. Interests in the processes of Software Engineering and the phases of the Software Development Life Cycle.
+</p>
 
 <!-- - 🌱 I’m currently learning **Java** -->
 
@@ -24,3 +28,36 @@
 <!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> -->
 </p>
 
+
+<div align="center">
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sdvelev?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdvelev&layout=compact" height="200">
+</div>
+
+![Snake animation](https://github.com/sdvelev/sdvelev/blob/output/github-contribution-grid-snake.svg)
+
+<p float="left">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sdvelev&show_icons=true&theme=dark&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sdvelev&show_icons=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdvelev&show_icons=true" />
+</picture>
+ 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sdvelev&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sdvelev&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="353px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdvelev&layout=compact" />
+</picture>
+</p>
