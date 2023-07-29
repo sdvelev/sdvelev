@@ -24,8 +24,8 @@ SOFTWARE.
 
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
-<p>
-Aspiring and hard-working 4th Year Student in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University. Enthusiastic about learning new technologies and applying the existing knowledge in real-world scenarios. Passionate about Software Engineering processes and the various stages of the Software Development Life Cycle.
+<p align="center">
+<i></em>Aspiring and hard-working 4th Year Student in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University. Enthusiastic about learning new technologies and applying the existing knowledge in real-world scenarios. Passionate about Software Engineering processes and the various stages of the Software Development Life Cycle.</i>
 </p>
 
 <h3 align="left">:envelope: &nbsp; Connect with me</h3>
@@ -111,6 +111,8 @@ Aspiring and hard-working 4th Year Student in Software Engineering at the Facult
 <a href="https://www.hackerrank.com/Velev_62537">
  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"/>
 </a>
+
+<h3 align="left">📊 &nbsp; Stats</h3>
 
 <div align="center">
 
