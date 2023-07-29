@@ -34,7 +34,11 @@ Diligent and hard-working 4th Year Student in Software Engineering at the Facult
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sdvelev?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdvelev&layout=compact" height="200">
 </div>
 
-![Snake animation](https://github.com/sdvelev/sdvelev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p float="left">
 <picture>
@@ -48,7 +52,8 @@ Diligent and hard-working 4th Year Student in Software Engineering at the Facult
   />
   <img src="https://github-readme-stats.vercel.app/api?username=sdvelev&show_icons=true" />
 </picture>
- 
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sdvelev&layout=compact&theme=dark"
