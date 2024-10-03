@@ -25,7 +25,7 @@ SOFTWARE.
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-<i></em>Aspiring and hard-working recent Graduate in Software Engineering from the Faculty of Mathematics and Informatics, Sofia University. Enthusiastic about learning new technologies and applying the existing knowledge in real-world scenarios. Passionate about Software Engineering processes and the various stages of the Software Development Life Cycle.</i>
+<i></em>Aspiring and hard-working Big Data Technologies student and a recent Graduate in Software Engineering from the Faculty of Mathematics and Informatics, Sofia University. Enthusiastic about learning new technologies and applying the existing knowledge in real-world scenarios. Passionate about Software Engineering processes and the various stages of the Software Development Life Cycle.</i>
 </p>
 
 <h2 align="center">:envelope: &nbsp; Connect with me</h2>
