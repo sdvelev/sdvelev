@@ -97,8 +97,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 
-<h3 align="center">📊 &nbsp; Some Statistics</h3>
-
 <div align="center">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sdvelev?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)  
