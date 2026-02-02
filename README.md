@@ -28,7 +28,7 @@
 </a>
 </div>
 
-<h3 align="center">🚀 &nbsp;Key Technologies and Tools I Have Used and Learned during My Studies</h3>
+<h3 align="center">🚀 &nbsp;Key technologies and tools I have used during my studies</h3>
 
 <h4 align="left">📋 Languages</h4>
 
