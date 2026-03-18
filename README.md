@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-<i></em>Aspiring and hard-working Big Data Technologies (M.Sc.) student and a recent Graduate in Software Engineering (B.Sc.) from the Faculty of Mathematics and Informatics, Sofia University. Enthusiastic about learning new technologies and applying the existing knowledge in real-world scenarios. Passionate about Responsible AI, Semantic Technologies, Software Engineering processes and the various stages of the Software Development Life Cycle.</i>
+<i>Diligent and hard-working recent graduate from the Faculty of Mathematics and Informatics, Sofia University, holding a BSc in Software Engineering and an MSc in Informatics - Big Data Technologies. I have a strong interest in the processes of Software Engineering and the phases of the Software Development Life Cycle, with hands-on experience from various projects. I am particularly motivated by Responsible AI and AI Regulatory Compliance, aiming to contribute to the development of ethical, trustworthy, and compliant AI systems. I am passionate about exploring new technologies and investigating novel approaches, with the goal of contributing to both applied and research-driven outcomes.</i>
 </p>
 
 <h3 align="center">:envelope: &nbsp; Connect with me</h3>
