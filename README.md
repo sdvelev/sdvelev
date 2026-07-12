@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-<i>Diligent and hard-working recent graduate from the Faculty of Mathematics and Informatics, Sofia University, holding a BSc in Software Engineering and an MSc in Informatics - Big Data Technologies. I have a strong interest in the processes of Software Engineering and the phases of the Software Development Life Cycle, with hands-on experience from various projects. I am particularly motivated by Responsible AI and AI Regulatory Compliance, aiming to contribute to the development of ethical, trustworthy, and compliant AI systems. I am passionate about exploring new technologies and investigating novel approaches, with the goal of contributing to both applied and research-driven outcomes.</i>
+<i>Researcher and PhD student in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University "St. Kliment Ohridski". My research focuses on Responsible AI, AI regulatory compliance, and the development of trustworthy and ethical AI systems.</i>
+</p>
+
+<p align="center">
+<i>I am interested in exploring how software engineering principles, methodologies, and practices can support the design, development, and governance of AI systems that are transparent, reliable, accountable, and aligned with emerging regulatory frameworks. Driven by curiosity and continuous learning, I enjoy exploring innovative approaches that bridge academic research and real-world applications, contributing to reliable, impactful, and human-centered software solutions.</i>
 </p>
 
 <h3 align="center">:envelope: &nbsp; Connect with me</h3>
@@ -15,7 +19,7 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://fb.com//stefko.velev/">
+<a href="https://fb.com//s.d.velev/">
  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
 </a>
 
