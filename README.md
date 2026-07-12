@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-<i>Researcher and PhD student in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University "St. Kliment Ohridski". My research focuses on Responsible AI, AI regulatory compliance, and the development of trustworthy and ethical AI systems.</i>
+<i>Researcher and PhD student in Software Engineering at the Faculty of Mathematics and Informatics, Sofia University "St. Kliment Ohridski, holding a BSc in Software Engineering and an MSc in Informatics - Big Data Technologies". My research focuses on Responsible AI, AI regulatory compliance, and the development of trustworthy and ethical AI systems.</i>
 </p>
 
 <p align="center">
